@@ -1,0 +1,2 @@
+arr = []
+print(arr.pop())
