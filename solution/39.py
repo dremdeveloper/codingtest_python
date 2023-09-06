@@ -5,20 +5,30 @@ def solution(graph, start):
   adj_list = defaultdict(list)
   for u, v in graph:
     adj_list[u].append(v)
-
+    
   # BFS 탐색 함수
   def bfs(start):
     visited = set()  # ❶ 방문한 노드를 저장할 셋
-    queue = deque([start])  # ❷ 탐색시 맨 처음 방문할 노드 푸시
-    while queue:  # ❸ 큐가 비어있지 않은 동안 반복
+    
+    # ❷ 탐색시 맨 처음 방문할 노드 푸시 하고 방문처리
+    queue = deque([start])  
+    visited.add(start)  
+    result.append(start)  
+    
+    # ❸ 큐가 비어있지 않은 동안 반복
+    while queue:  
       node = queue.popleft()  # ❹ 큐에 있는 원소 중 가장 먼저 푸시된 원소 팝
-      if node not in visited:  # ❺ 방문하지 않은 노드인 경우
-        visited.add(node)  # ❻ 현재노드를 방문한 노드로 추가
-        result.append(node)  # ❼ 현재 노드를 결과리스트에 추가
-        for neighbor in adj_list.get(node, []):  # ❽ 인접한 이웃 노드들에 대해서
-          if neighbor not in visited:  # ➒ 방문되지 않은 이웃 노드인 경우
+      for neighbor in adj_list.get(node, []):  # ❽ 인접한 이웃 노드들에 대해서
+        if neighbor not in visited:  # ➒ 방문되지 않은 이웃 노드인 경우
             queue.append(neighbor)
+            visited.add(neighbor)  # ❻ 현재노드를 방문한 노드로 추가
+            result.append(neighbor)  # ❼ 현재 노드를 결과리스트에 추가
 
   result = []
   bfs(start)  # ➓ 시작 노드부터 BFS 탐색 수행
   return result
+
+#결과값 확인
+#print(solution([(1, 2), (1, 3), (2, 4), (2, 5), (3, 6), (3, 7), (4, 8), (5, 8), (6, 9), (7, 9)],1))
+#print(solution([(0, 1), (1, 2), (2, 3), (3, 4), (4, 5), (5, 0)],1))
+ 
