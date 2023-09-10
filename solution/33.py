@@ -13,12 +13,7 @@ def union(parents, x, y):
   root1 = find(parents, x)  # x가 속한 집합의 루트 노드 찾기
   root2 = find(parents, y)  # y가 속한 집합의 루트 노드 찾기
 
-  if root1 != root2:  # root1과 root2가 다르면, 즉 x와 y가 속한 집합이 다르면
-    if root1 < root2:  # root1이 root2보다 작으면, 즉 x의 집합이 y의 집합보다 작으면
-      parents[root2] = root1  # y가 속한 집합을 x가 속한 집합에 합침
-    else:
-      parents[root1] = root2  # x가 속한 집합을 y가 속한 집합에 합침
-
+  parents[root2] = root1  # y가 속한 집합을 x가 속한 집합에 합침
 
 def solution(k, operations):
   parents = list(range(k))  # 처음에는 각 노드가 자기 자신을 부모로 가지도록 초기화
@@ -34,3 +29,7 @@ def solution(k, operations):
   n = len(set(find(parents, i) for i in range(k)))
 
   return n  # 집합의 개수를 반환
+  
+  
+print(solution(3,[['u', 0, 1], ['u', 1, 2], ['f', 2]]))
+print(solution(4,[['u', 0, 1], ['u', 2, 3], ['f', 0]]))
