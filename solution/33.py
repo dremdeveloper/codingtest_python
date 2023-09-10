@@ -23,11 +23,14 @@ def union(parents, x, y):
 def solution(k, operations):
   parents = list(range(k))  # 처음에는 각 노드가 자기 자신을 부모로 가지도록 초기화
   n = k  # 집합의 개수를 저장할 변수, 처음에는 모든 노드가 서로 다른 집합에 있으므로 k
+
   for op in operations:  # operations 리스트에 있는 연산들을 하나씩 처리
     if op[0] == "u":  # 'u' 연산이면
       union(parents, op[1], op[2])  # op[1]과 op[2]가 속한 집합을 합칩니다.
     elif op[0] == "f":  # 'f' 연산이면
       find(parents, op[1])  # op[1]이 속한 집합의 루트 노드를 찾습니다.
-    # 모든 노드의 루트 노드를 찾아서 집합의 개수를 계산
-    n = len(set(find(parents, i) for i in range(k)))
+
+  # 모든 노드의 루트 노드를 찾아서 집합의 개수를 계산
+  n = len(set(find(parents, i) for i in range(k)))
+
   return n  # 집합의 개수를 반환
