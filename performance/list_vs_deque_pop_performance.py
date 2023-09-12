@@ -17,5 +17,5 @@ while dq:
     dq.popleft()
 deque_popleft_time = time.time() - start_time
 
-print(f"Using list's pop(0) took: {list_pop_time:.6f} seconds")
-print(f"Using deque's popleft() took: {deque_popleft_time:.6f} seconds")
+print(f"Using list's pop(0) took: {list_pop_time:.6f} seconds")# 1.152777초(환경마다 다를 수 있음)
+print(f"Using deque's popleft() took: {deque_popleft_time:.6f} seconds")# 0.019073초(환경마다 다를 수 있음)
