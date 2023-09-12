@@ -19,5 +19,5 @@ result_set = test_value in s
 end_time = time.time()
 set_time = end_time - start_time
 
-print(f"List membership test took: {list_time:.6f} seconds")
-print(f"Set membership test took: {set_time:.6f} seconds")
+print(f"List membership test took: {list_time:.6f} seconds")# 0.019357초(환경마다 다를 수 있음)
+print(f"Set membership test took: {set_time:.6f} seconds")# 0.000003초(환경마다 다를 수 있음)
