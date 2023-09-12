@@ -21,5 +21,5 @@ for _ in range(num_elements):
     heapq.heappush(heap, val)
 heap_time = time.time() - start_time
 
-print(f"Insertion & sort in list took: {list_time:.6f} seconds")
-print(f"Insertion using heapq took: {heap_time:.6f} seconds")
+print(f"Insertion & sort in list took: {list_time:.6f} seconds")# 0.757835초(환경마다 달라질수 있음)
+print(f"Insertion using heapq took: {heap_time:.6f} seconds")# 0.022424초(환경마다 달라질수 있음)
