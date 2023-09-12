@@ -18,14 +18,15 @@ def solution(graph, start):
     # ❸ 큐가 비어있지 않은 동안 반복
     while queue:  
       node = queue.popleft()  # ❹ 큐에 있는 원소 중 가장 먼저 푸시된 원소 팝
-      for neighbor in adj_list.get(node, []):  # ❽ 인접한 이웃 노드들에 대해서
-        if neighbor not in visited:  # ➒ 방문되지 않은 이웃 노드인 경우
+      for neighbor in adj_list.get(node, []):  #❺  인접한 이웃 노드들에 대해서
+        if neighbor not in visited:  # ❻ 방문되지 않은 이웃 노드인 경우
+            # ❼ 이웃노드를 방문 처리함
             queue.append(neighbor)
-            visited.add(neighbor)  # ❻ 현재노드를 방문한 노드로 추가
-            result.append(neighbor)  # ❼ 현재 노드를 결과리스트에 추가
+            visited.add(neighbor)  
+            result.append(neighbor)
 
   result = []
-  bfs(start)  # ➓ 시작 노드부터 BFS 탐색 수행
+  bfs(start)  # ❽ 시작 노드부터 BFS 탐색 수행
   return result
 
 #결과값 확인
