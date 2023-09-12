@@ -16,5 +16,5 @@ for i in range(num_elements):
     lst_plus = lst_plus + [i]
 plus_time = time.time() - start_time
 
-print(f"Using append() took: {append_time:.6f} seconds")
-print(f"Using + operator took: {plus_time:.6f} seconds")
+print(f"Using append() took: {append_time:.6f} seconds")# 0.002196초(환경마다 다를 수 있음)
+print(f"Using + operator took: {plus_time:.6f} seconds")# 0.297017초(환경마다 다를 수 있음)
