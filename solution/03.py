@@ -6,5 +6,5 @@ def solution(numbers):
       # ➌ 두 수를 더한 결과를 새로운 배열에 추가
       ret.append(numbers[i] + numbers[j])
   # ➍ 중복된 값을 제거하고, 오름차순으로 정렬
-  ret = sorted(list(set(ret)))
+  ret = sorted(set(ret))
   return ret  # ➎ 최종 결과 반환
