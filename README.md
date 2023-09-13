@@ -6,6 +6,7 @@
 ![코딩 테스트 합격자 되기(파이썬 편)_ 가표지_입체](https://github.com/dremdeveloper/codingtest_python/assets/131899974/8f096ad7-3a0c-47ed-b853-b5d9bf6a4f03)
 
 # 저자와 소통하기
+⭐⭐⭐⭐⭐ 9/18일에 오픈채팅방에서 베타리더를 모집해요. 미리 책을 볼수 있어요⭐⭐⭐⭐⭐
  - 카카오톡 오픈채팅 : https://open.kakao.com/o/gX0WnTCf
  - 알고리즘 관련 질문 및 자유롭게 소통 하는 목적
 
