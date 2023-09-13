@@ -1,11 +1,32 @@
-# codingtest_python
-파이썬으로 코딩테스트를 공부할때 필요한 코드들을 올리는 공간 입니다.
+# 코딩 테스트 합격자 되기(파이썬 편)
+- 프로그래머스에서 엄선한 기출문제에 대한 상세한 풀이 제공
+- 들고 다닐수 있는 요약노트 제공
+- 실전문제 위주로 출제왼 기출문제 5회본 제공
+  
+![코딩 테스트 합격자 되기(파이썬 편)_ 가표지_입체](https://github.com/dremdeveloper/codingtest_python/assets/131899974/8f096ad7-3a0c-47ed-b853-b5d9bf6a4f03)
 
+# 저자와 소통하기
+ - 카카오톡 오픈채팅 : https://open.kakao.com/o/gX0WnTCf
+ - 알고리즘 관련 질문 및 자유롭게 소통 하는 목적
+ - 
+![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/ba74f116-ddb6-4cb4-956e-147d35e10336)
 
-'''markdown
+# 연락처
+- 해당 코드들에 대해 문의사항이 있거나, 연락이 필요한 경우 아래 참조
 
-| Command    | Description                                    |
+| Title    | Description                                    |
 | ---------- | ---------------------------------------------- |
-|Q&A         |https://open.kakao.com/o/gX0WnTCf               |
-|blog        |http://cafe.naver.com/dremdveloper              |
-|mail        |ultrasuperrok@gmail.com                         |
+|Blog        |http://cafe.naver.com/dremdveloper              |
+|Business Mail        |ultrasuperrok@gmail.com                         |
+
+
+# 폴더 구조
+ - 깃 허브의 폴더 구조에 대한 설명
+| Title    | Description                                    |
+| ---------- | ---------------------------------------------- |
+| errorcode        | 자주 발생하는 에러               |
+| performance        | 비슷한 동작을 하는데 시간복잡도가 다른 경우             |
+| reference        | 코딩테스트에서 많이 사용하는 메서드(시간복잡도 포함)                         |
+| solution        | 책에 있는 문제에 대한 해설                         |
+
+
