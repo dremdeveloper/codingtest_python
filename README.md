@@ -30,5 +30,5 @@
 | performance        | 비슷한 동작을 하는데 시간복잡도가 다른 경우             |
 | reference        | 코딩테스트에서 많이 사용하는 메서드(시간복잡도 포함)                         |
 | solution        | 책에 있는 문제에 대한 해설                         |
-
+| Algorithm_with_DataStructure        | 코딩테스트에 등장하는 알고리즘과 자료구조                        |
 
