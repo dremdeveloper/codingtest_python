@@ -17,7 +17,7 @@
 
 | Title    | Description                                    |
 | ---------- | ---------------------------------------------- |
-|Blog        |http://cafe.naver.com/dremdveloper              |
+|Cafe        |http://cafe.naver.com/dremdeveloper              |
 |Business Mail        |ultrasuperrok@gmail.com                         |
 
 
