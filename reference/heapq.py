@@ -1,3 +1,9 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+
 import heapq
 
 # 초기 리스트 정의. 현재 힙 속성을 만족하지 않음
