@@ -1,3 +1,9 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+
 # dic.get(key)
 # 딕셔너리 dic에서 주어진 key에 해당하는 값을 반환합니다. 
 # key가 딕셔너리에 없으면 None을 반환합니다.
