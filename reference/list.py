@@ -1,3 +1,9 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+
 lst = [1, 2, 3, 4]
 
 # append(item): 리스트의 끝에 item을 추가합니다. 반환값은 없습니다.
