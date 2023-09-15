@@ -1,3 +1,9 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+
 # str1 + str2: 두 문자열 str1과 str2를 연결합니다.
 # 반환값: 새로운 문자열
 # 시간 복잡도: O(n + m), n과 m은 각각 str1과 str2의 길이입니다.
