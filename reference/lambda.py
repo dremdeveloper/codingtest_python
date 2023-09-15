@@ -1,3 +1,9 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+
 # 파이썬에서 'lambda'는 익명 함수를 생성하는 데 사용되는 키워드입니다. 
 # 'lambda' 함수는 일반 함수(def)와 같지만, 이름 없이 정의되며, 한 줄로 표현됩니다.
 # 기본 구조는 다음과 같습니다: lambda arguments: expression

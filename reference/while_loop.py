@@ -1,3 +1,9 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+
 # 파이썬에서 'while'문은 조건이 참(True)인 동안 반복적으로 코드 블록을 실행합니다.
 # 'while'문의 구조는 'while 조건:'과 같으며, 조건이 참인 경우 'while' 블록 내의 코드가 계속 실행됩니다.
 

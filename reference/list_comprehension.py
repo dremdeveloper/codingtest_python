@@ -1,3 +1,9 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+\
 # "List comprehension"은 리스트를 생성하는 간결하고 효율적인 방법입니다.
 # 기본 구조는 [expression for item in iterable if condition] 이며, 이 구조를 사용하여
 # for 문과 if 문을 사용한 루프보다 더 간결하게 리스트를 생성할 수 있습니다.

@@ -1,3 +1,9 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+
 # "map"과 "reduce" 함수는 iterable 객체를 효율적으로 처리할 수 있는 파이썬의 내장 함수입니다.
 
 from functools import reduce
