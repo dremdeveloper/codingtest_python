@@ -1,3 +1,8 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
 # 1. 알고리즘의 개념:
 #    LCS(Longest Common Subsequence) 알고리즘은 두 문자열에서 가장 긴 공통 부분 문자열을 찾는 알고리즘입니다.
 #    동적 계획법(DP)를 사용하여 문제를 해결합니다.
