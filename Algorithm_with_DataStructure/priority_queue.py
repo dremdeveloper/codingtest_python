@@ -1,5 +1,8 @@
-import heapq
-
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
 # 1. 알고리즘의 개념:
 #    우선순위 큐는 각 원소가 우선순위를 가진 데이터의 집합에서,
 #    우선순위가 가장 높은 원소를 가장 먼저 삭제하는 자료구조입니다.
@@ -17,6 +20,7 @@ import heapq
 #    - 작업 스케줄링
 #    - 네트워크 트래픽 제어
 #    - 데이터 스트림의 중간 값 찾기
+import heapq
 
 # 우선순위 큐(최소 힙) 초기화
 priority_queue = []

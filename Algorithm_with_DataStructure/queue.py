@@ -1,35 +1,43 @@
-import heapq
-
-# 1. 알고리즘의 개념:
-#    우선순위 큐는 각 원소가 우선순위를 가진 데이터의 집합에서,
-#    우선순위가 가장 높은 원소를 가장 먼저 삭제하는 자료구조입니다.
-#    Python의 heapq 모듈은 최소 힙을 제공하여 우선순위 큐를 구현할 수 있습니다.
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+# 1. 자료구조 개념:
+#    스택은 데이터의 삽입과 삭제가 한 쪽 끝에서만 일어나는 선형 자료구조이다. 
+#    이러한 특성 때문에 Last In First Out (LIFO) 자료구조라고도 불린다. 
+#    여기서는 deque라는 Python 라이브러리를 사용하여 스택을 구현하였다.
 
 # 2. 예시 입력 / 출력:
-#    입력: [(1, 'Task 1'), (3, 'Task 3'), (2, 'Task 2')]
-#    출력: 'Task 1', 'Task 2', 'Task 3'
+#    입력: [1, 2, 3, 4, 5] (순차적으로 스택에 push)
+#    출력: 5 4 3 2 1 (순차적으로 스택에서 pop)
 
-# 3. 알고리즘의 시간 복잡도:
-#    - 삽입: O(log n)
-#    - 삭제(최소 원소 추출): O(log n)
+# 3. 자료구조의 시간 복잡도:
+#    스택의 주요 연산인 push와 pop 모두 O(1)의 시간 복잡도를 가진다. 
+#    이는 각 연산이 상수 시간에 수행됨을 의미한다.
 
-# 4. 해당 알고리즘으로 풀 수 있는 문제 예시:
-#    - 작업 스케줄링
-#    - 네트워크 트래픽 제어
-#    - 데이터 스트림의 중간 값 찾기
+# 4. 해당 자료구조로 풀 수 있는 문제 예시:
+#    - 괄호 짝 맞추기 문제
+#    - 브라우저의 뒤로 가기 기능 구현
+#    - 깊이 우선 탐색 (DFS) 등
 
-# 우선순위 큐(최소 힙) 초기화
-priority_queue = []
+# 5. 상세 과정:
+#    - 먼저 deque 라이브러리를 사용하여 스택 객체를 초기화한다.
+#    - append() 메서드를 사용하여 요소를 스택에 삽입한다.
+#    - pop() 메서드를 사용하여 스택의 맨 위 요소를 제거하고 반환한다.
+from collections import deque
 
-# 원소 삽입
-heapq.heappush(priority_queue, (1, 'Task 1'))
-heapq.heappush(priority_queue, (3, 'Task 3'))
-heapq.heappush(priority_queue, (2, 'Task 2'))
 
-# 큐의 모든 원소 출력 (힙 트리의 형태로 저장되어 있음)
-print(priority_queue)  # 출력: [(1, 'Task 1'), (3, 'Task 3'), (2, 'Task 2')]
+# 스택 객체 초기화
+stack = deque()
 
-# 최소 원소 삭제 및 반환
-print(heapq.heappop(priority_queue))  # 출력: (1, 'Task 1')
-print(heapq.heappop(priority_queue))  # 출력: (2, 'Task 2')
-print(heapq.heappop(priority_queue))  # 출력: (3, 'Task 3')
+# 요소들을 스택에 삽입 (push)
+stack.append(1)
+stack.append(2)
+stack.append(3)
+stack.append(4)
+stack.append(5)
+
+# 스택에서 요소들을 제거 (pop)하면서 출력
+while stack:
+    print(stack.pop())  # 출력: 5, 4, 3, 2, 1 (LIFO 순서)
