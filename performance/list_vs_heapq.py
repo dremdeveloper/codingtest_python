@@ -1,3 +1,14 @@
+#############################################################
+# | cafe       | http://cafe.naver.com/dremdelover          |
+# | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
+# | business   | ultrasuperrok@gmail.com                    |
+#############################################################
+# 1. list 사용: 리스트에 요소를 추가한 후에 매번 정렬을 수행합니다. 
+#    이 경우, append 연산은 O(1)의 시간 복잡도를 가지지만, sort() 메서드는 O(n log n)의 시간 복잡도를 가집니다. 
+#    따라서 전체 작업의 시간 복잡도는 O(n^2 log n)이 됩니다.
+# 2. heapq 사용: heapq는 이진 힙 자료구조를 사용하여 요소를 추가할 때마다 힙 속성을 유지합니다. 
+#    heappush 연산은 O(log n)의 시간 복잡도를 가집니다. 
+#    따라서 전체 작업의 시간 복잡도는 O(n log n)이 됩니다.
 import heapq
 import time
 import random
