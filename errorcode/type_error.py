@@ -3,13 +3,13 @@
 # | Q&A        | https://open.kakao.com/o/gX0WnTCf          |
 # | business   | ultrasuperrok@gmail.com                    |
 #############################################################
-# 에러 메시지: TypeError: can only concatenate str (not "int") to str
-# 의미: 문자열과 숫자는 서로 더할 수 없으며, 이렇게 시도할 때 이 에러가 발생합니다.
+# 에러 메시지: TypeError: unsupported operand type(s) for +: 'int' and 'str'
+# 의미: 두 개의 서로 다른 타입의 데이터를 연산하려고 할 때 발생하는 에러입니다.
 
 # 에러 발생 코드
-result = "string" + 123
+result = 5 + "10"
 
 # 해결 방법:
-# 숫자를 문자열로 변환하여 오류를 방지할 수 있습니다.
+# 연산 전에 데이터 타입을 일치시킵니다.
 # 예:
-# result = "string" + str(123)
+# result = 5 + int("10")  # 또는 str(5) + "10"
