@@ -31,7 +31,3 @@
 | [remove_duplicates.py](Algorithm_with_DataStructure/remove_duplicates.py) | 리스트에서 중복된 원소를 제거합니다. |작성 예정 | 데이터 정리 |
 | [stack.py](Algorithm_with_DataStructure/stack.py) | 스택(Stack) 데이터 구현하고 사용하는 방법을 보여줍니다. |작성 예정 | 데이터 처리, 작업 스케줄링 |
 
-## 기여 방법
-
-이 프로젝트에 기여하고 싶으신 분들은 Pull Request를 통해 기여할 수 있습니다.
-
