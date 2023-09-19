@@ -15,7 +15,6 @@
 | lst.insert(idx,item)    | item을 lst의 idx 위치에 삽입</br>(그 이후 원소들은 한칸씩 밀림) | O(N),N은 lst의 길이          |  
 | lst.pop()    | lst의 마지막 원소 제거 후, 해당 원소 반환                                    | O(1) |
 | lst.pop(0)    | lst의 첫 번째 원소 제거 후 해당 원소 반환</br>(모든 원소가 앞으로 한 칸씩 이동)| O(N),N은 lst의 길이 |
-                                    
 | lst.remove(item)    | lst에서 item과 일치하는 첫번째 원소 찾아서 제거                                    | O(N),N은 lst의 길이 |
 | lst.extend(s)    | lst모든 원소들을 현재 리스트의 끝에 추가                                    | O(N),N은 lst의 길이 |
 | lst[K]    | lst의 k번째 인덱스에 있는 요소를 반환합니다.                                    | O(1) |
