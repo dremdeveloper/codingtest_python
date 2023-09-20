@@ -122,7 +122,7 @@
 |[66.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/66.py)|롤케이크 자르기|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/132265|
 |[67.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/67.py)|카펫|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/42842|
 |[68.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/68.py)|점프와 순간 이동|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12980|
-|[69.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/69.py)|캐릭터의 좌표|(N/A)|https://school.programmers.co.kr/learn/courses/30/lessons/120861|
+|[69.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/69.py)|캐릭터의 좌표|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/120861|
 
 
 
