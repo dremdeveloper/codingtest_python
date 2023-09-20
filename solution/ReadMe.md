@@ -48,28 +48,40 @@
 |[25.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/25.py)|메뉴 리뉴얼|⭐⭐⭐|https://programmers.co.kr/learn/courses/30/lessons/72411|
 
 
+## 09장 트리
+| 파일명 | 문제 |난이도| 비고 |
+|------|------|------|------|
+|[26.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/26.py)|트리 순회|⭐⭐|저자 출제|
+|[27.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/27.py)|이진 탐색 트리 구현|⭐⭐⭐|저자 출제|
+|[28.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/28.py)|예상 대진표|⭐|https://programmers.co.kr/learn/courses/30/lessons/12985|
+|[29.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/29.py)|다단계 칫솔 판매|⭐⭐|https://programmers.co.kr/learn/courses/30/lessons/77486|
+|[30.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/30.py)|미로 탈출|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/159993|
+|[31.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/31.py)|양과 늑대|⭐⭐⭐⭐⭐|https://programmers.co.kr/learn/courses/30/lessons/92343|
+|[32.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/32.py)|길 찾기 게임|⭐⭐⭐⭐|https://programmers.co.kr/learn/courses/30/lessons/42892|
 
-|[26.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/26.py)|------|------|
-|[27.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/27.py)|------|------|
-|[28.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/28.py)|------|------|
-|[29.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/29.py)|------|------|
-|[30.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/30.py)|------|------|
-|[31.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/31.py)|------|------|
-|[32.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/32.py)|------|------|
-|[33.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/33.py)|------|------|
-|[34.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/34.py)|------|------|
-|[35.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/35.py)|------|------|
-|[36.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/36.py)|------|------|
-|[37.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/37.py)|------|------|
-|[38.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/38.py)|------|------|
-|[39.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/39.py)|------|------|
-|[40.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/40.py)|------|------|
-|[41.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/41.py)|------|------|
-|[42.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/42.py)|------|------|
-|[43.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/43.py)|------|------|
-|[44.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/44.py)|------|------|
-|[45.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/45.py)|------|------|
-|[46.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/46.py)|------|------|
+
+## 10장 집합
+| 파일명 | 문제 |난이도| 비고 |
+|------|------|------|------|
+|[33.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/33.py)|간단한 유니온-파인드 알고리즘 구현하기|⭐⭐|저자 출제|
+|[34.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/34.py)|폰켓몬|⭐|https://programmers.co.kr/learn/courses/30/lessons/1845|
+|[35.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/35.py)|영어 끝말잇기|⭐|https://programmers.co.kr/learn/courses/30/lessons/12981|
+|[36.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/36.py)|전화번호 목록|⭐⭐|https://programmers.co.kr/learn/courses/30/lessons/42577|
+|[37.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/37.py)|섬 연결하기|⭐⭐⭐| https://school.programmers.co.kr/learn/courses/30/lessons/42861|
+
+
+## 11장 그래프
+| 파일명 | 문제 |난이도| 비고 |
+|------|------|------|------|
+|[38.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/38.py)|깊이 우선 탐색으로 모든 노드를 순회하는 함수 작성하기|⭐|저자 출제|
+|[39.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/39.py)|너비 우선 탐색으로 이용하여 모든 노드를 순회하는 함수 작성하기|⭐|저자 출제|
+|[40.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/40.py)|다익스트라 알고리즘 구현하기|⭐⭐⭐|저자 출제|
+|[41.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/41.py)|벨만-포드 알고리즘 구현하기|⭐⭐⭐|저자 출제|
+|[42.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/42.py)|게임 맵 최단 거리|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/1844|
+|[43.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/43.py)|네트워크|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/43162|
+|[44.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/44.py)|배달|⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12978|
+|[45.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/45.py)|경주로 건설|⭐⭐⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/67259|
+|[46.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/46.py)|전력망을 둘로 나누기|⭐⭐|https://programmers.co.kr/learn/courses/30/lessons/86971|
 |[47.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/47.py)|------|------|
 |[48.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/48.py)|------|------|
 |[49.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/49.py)|------|------|
