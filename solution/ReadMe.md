@@ -122,23 +122,32 @@
 |[66.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/66.py)|롤케이크 자르기|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/132265|
 |[67.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/67.py)|카펫|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/42842|
 |[68.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/68.py)|점프와 순간 이동|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12980|
-|[69.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/69.py)|캐릭터의 좌표(N/A)|https://school.programmers.co.kr/learn/courses/30/lessons/120861|
+|[69.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/69.py)|캐릭터의 좌표|(N/A)|https://school.programmers.co.kr/learn/courses/30/lessons/120861|
 
 
 
-|[70.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/70.py)|------|------|
-|[71.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/71.py)|------|------|
-|[72.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/72.py)|------|------|
-|[73.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/73.py)|------|------|
-|[74.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/74.py)|------|------|
-|[75.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/75.py)|------|------|
-|[76.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/76.py)|------|------|
-|[77.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/77.py)|------|------|
-|[78.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/78.py)|------|------|
-|[79.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/79.py)|------|------|
-|[80.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/80.py)|------|------|
-|[81.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/81.py)|------|------|
-|[82.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/82.py)|------|------|
-|[83.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/83.py)|------|------|
-|[84.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/84.py)|------|------|
-|[85.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/85.py)|------|------|
+## 15장 동적 계획법
+| 파일명 | 문제 |난이도| 비고 |
+|------|------|------|------|
+|[70.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/70.py)|LCS 길이 계산하기|⭐⭐⭐|저자 출제|
+|[71.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/71.py)|LIS 길이 계산하기|⭐⭐⭐|저자 출제|
+|[72.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/72.py)|조약돌 문제|⭐⭐⭐|저자 출제|
+|[73.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/73.py)|피보나치 수|⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12945|
+|[74.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/74.py)|2 x n 타일링|⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12900|
+|[75.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/75.py)|정수 삼각형|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/43105|
+|[76.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/76.py)|땅따먹기|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12913|
+|[77.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/77.py)|도둑질|⭐⭐⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/42897|
+|[78.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/78.py)|가장 큰 정사각형 찾기|⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12905|
+|[79.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/79.py)|단어 퍼즐|⭐⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12983|
+
+
+
+## 16장 그리디
+| 파일명 | 문제 |난이도| 비고 |
+|------|------|------|------|
+|[80.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/80.py)|거스름돈 거슬러 주기|⭐⭐|저자 출제|
+|[81.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/81.py)|부분 배낭 문제|⭐|저자 출제|
+|[82.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/82.py)|예산|⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12982|
+|[83.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/83.py)|구명보트|⭐|https://school.programmers.co.kr/learn/courses/30/lessons/42885|
+|[84.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/84.py)|귤 고르기|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/138476|
+|[85.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/85.py)|기지국 설치|⭐⭐|https://programmers.co.kr/learn/courses/30/lessons/12979|
