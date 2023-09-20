@@ -82,29 +82,50 @@
 |[44.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/44.py)|배달|⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12978|
 |[45.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/45.py)|경주로 건설|⭐⭐⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/67259|
 |[46.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/46.py)|전력망을 둘로 나누기|⭐⭐|https://programmers.co.kr/learn/courses/30/lessons/86971|
-|[47.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/47.py)|------|------|
-|[48.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/48.py)|------|------|
-|[49.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/49.py)|------|------|
-|[50.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/50.py)|------|------|
-|[51.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/51.py)|------|------|
-|[52.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/52.py)|------|------|
-|[53.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/53.py)|------|------|
-|[54.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/54.py)|------|------|
-|[55.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/55.py)|------|------|
-|[56.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/56.py)|------|------|
-|[57.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/57.py)|------|------|
-|[58.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/58.py)|------|------|
-|[59.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/59.py)|------|------|
-|[60.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/60.py)|------|------|
-|[61.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/61.py)|------|------|
-|[62.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/62.py)|------|------|
-|[63.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/63.py)|------|------|
-|[64.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/64.py)|------|------|
-|[65.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/65.py)|------|------|
-|[66.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/66.py)|------|------|
-|[67.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/67.py)|------|------|
-|[68.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/68.py)|------|------|
-|[69.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/69.py)|------|------|
+
+
+
+## 12장 백트래킹
+| 파일명 | 문제 |난이도| 비고 |
+|------|------|------|------|
+|[47.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/47.py)|1부터 N까지 숫자 중 합이 10이 되는 조합 구하기|⭐⭐|저자 출제|
+|[48.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/48.py)|스도쿠 퍼즐|⭐⭐|저자 출제|
+|[49.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/49.py)|피로도|⭐|https://school.programmers.co.kr/learn/courses/30/lessons/87946|
+|[50.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/50.py)|N-퀸|⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12952|
+|[51.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/51.py)|양궁 대회|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/92342|
+|[52.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/52.py)|외벽 점검|⭐⭐⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/60062|
+|[53.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/53.py)|사라지는 발판|⭐⭐⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/92345|
+
+
+## 13장 정렬
+| 파일명 | 문제 |난이도| 비고 |
+|------|------|------|------|
+|[54.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/54.py)|계수 정렬 구현하기|⭐|저자 출제|
+|[55.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/55.py)|정렬이 완료된 두 배열 합치기|⭐|저자 출제|
+|[56.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/56.py)|문자열 내 마음대로 정렬하기|⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12915|
+|[57.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/57.py)|정수 내림차순으로 배치하기|⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12933|
+|[58.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/58.py)|K번째 수|⭐|https://school.programmers.co.kr/learn/courses/30/lessons/42748|
+|[59.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/59.py)|가장 큰 수|⭐⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/42746|
+|[60.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/60.py)|튜플|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/64065|
+|[61.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/61.py)|지형 이동|⭐⭐⭐⭐|https://programmers.co.kr/learn/courses/30/lessons/62050|
+
+
+
+
+## 14장 시뮬레이션
+| 파일명 | 문제 |난이도| 비고 |
+|------|------|------|------|
+|[62.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/62.py)|배열 회전하기|⭐⭐|저자 출제|
+|[63.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/63.py)|두 행렬을 곱한 후 전치 행렬 만들기|⭐|저자 출제|
+|[64.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/64.py)|달팽이 수열 만들기|⭐⭐|저자 출제|
+|[65.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/65.py)|이진 변환 하기|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/70129|
+|[66.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/66.py)|롤케이크 자르기|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/132265|
+|[67.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/67.py)|카펫|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/42842|
+|[68.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/68.py)|점프와 순간 이동|⭐⭐|https://school.programmers.co.kr/learn/courses/30/lessons/12980|
+|[69.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/69.py)|캐릭터의 좌표(N/A)|https://school.programmers.co.kr/learn/courses/30/lessons/120861|
+
+
+
 |[70.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/70.py)|------|------|
 |[71.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/71.py)|------|------|
 |[72.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/72.py)|------|------|
