@@ -23,17 +23,32 @@
 |[12.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/12.py)|주식 가격**|https://programmers.co.kr/learn/courses/30/lessons/42584|
 |[13.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/13.py)|크레인 인형 뽑기 게임**|https://programmers.co.kr/learn/courses/30/lessons/64061|
 |[14.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/14.py)|표 편집*****|https://programmers.co.kr/learn/courses/30/lessons/81303|
-|[15.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/15.py)|------|------|
-|[16.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/16.py)|------|------|
-|[17.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/17.py)|------|------|
-|[18.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/18.py)|------|------|
-|[19.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/19.py)|------|------|
-|[20.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/20.py)|------|------|
-|[21.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/21.py)|------|------|
-|[22.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/22.py)|------|------|
-|[23.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/23.py)|------|------|
-|[24.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/24.py)|------|------|
-|[25.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/25.py)|------|------|
+
+
+
+
+## 07장 큐
+| 파일명 | 문제 | 비고 |
+|------|------|------|
+|[15.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/15.py)|요세푸스 문제**|저자 출제|
+|[16.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/16.py)|기능 개발**|https://programmers.co.kr/learn/courses/30/lessons/42586|
+|[17.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/17.py)|카드 뭉치**|https://school.programmers.co.kr/learn/courses/30/lessons/159994|
+
+
+## 08장 해시
+| 파일명 | 문제 | 비고 |
+|------|------|------|
+|[18.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/18.py)|두 개의 수로 특정값 만들기*|저자 출제|
+|[19.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/19.py)|문자열 해싱을 이용한 검색 함수 만들기**|저자 출제|
+|[20.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/20.py)|완주하지 못한 선수*| https://programmers.co.kr/learn/courses/30/lessons/42576|
+|[21.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/21.py)|할인 행사**|https://school.programmers.co.kr/learn/courses/30/lessons/131127|
+|[22.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/22.py)|오픈 채팅방**|https://programmers.co.kr/learn/courses/30/lessons/42888|
+|[23.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/23.py)|베스트 앨범**| https://programmers.co.kr/learn/courses/30/lessons/42579|
+|[24.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/24.py)|신고 결과 받기**|https://programmers.co.kr/learn/courses/30/lessons/92334|
+|[25.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/25.py)|메뉴 리뉴얼***|https://programmers.co.kr/learn/courses/30/lessons/72411|
+
+
+
 |[26.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/26.py)|------|------|
 |[27.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/27.py)|------|------|
 |[28.py](https://github.com/dremdeveloper/codingtest_python/blob/main/solution/28.py)|------|------|
