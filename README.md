@@ -5,11 +5,14 @@
   
 ![코딩 테스트 합격자 되기(파이썬 편)_ 가표지_입체](https://github.com/dremdeveloper/codingtest_python/assets/131899974/8f096ad7-3a0c-47ed-b853-b5d9bf6a4f03)
 
-# 저자와 소통하기
-⭐⭐⭐⭐⭐  베타리더를 모집 진행중 미리 책을 볼수 있어요(모집기간 9월 18일 - 21일)⭐⭐⭐⭐⭐
-https://forms.gle/MzTjge9djSgwyJmEA
+# 진행중인 이벤트
+| Event    | 세부내용                                    |기간 |
+| ---------- | ---------------------------------------------- |---------------------------------------------- |
+|무료 코딩테스트 스터디       |[참여방법 및 스터디 세부사항](https://cafe.naver.com/dremdeveloper/901)              | 상시 |
+
+# 코딩테스트 소통공간(저자가 직접운영)
  - 카카오톡 오픈채팅 : https://open.kakao.com/o/gX0WnTCf
- - 알고리즘 관련 질문 및 자유롭게 소통 하는 목적
+
 
 ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/ba74f116-ddb6-4cb4-956e-147d35e10336)
 
