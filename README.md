@@ -27,8 +27,8 @@ https://forms.gle/MzTjge9djSgwyJmEA
 
 | Title    | Description                                    |
 | ---------- | ---------------------------------------------- |
-| errorcode        | 자주 발생하는 에러               |
-| performance        | 비슷한 동작을 하는데 시간복잡도가 다른 경우             |
+| errorcode        | 구현시 자주 발생하는 에러 및 해결방법               |
+| performance        | 비슷한 동작을 하는데 시간복잡도가 다른 경우에 대한 시간비교             |
 | reference        | 코딩테스트에서 많이 사용하는 문법                         |
 | solution        | 책에 있는 문제에 대한 해설                         |
 | Algorithm_with_DataStructure        | 코딩테스트에 등장하는 알고리즘과 자료구조                        |
