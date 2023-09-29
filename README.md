@@ -10,7 +10,10 @@
 | ---------- | ---------------------------------------------- |---------------------------------------------- |
 |무료 코딩테스트 스터디       |[참여방법 및 스터디 세부사항](https://cafe.naver.com/dremdeveloper/901)              | 상시 |
 
+|무료 코테 정리노트 증정(100프로 당첨)    |[참여하러가기](https://rabbit.prosell.kr/m/bbs/Jonbeo/1 )              | 9월27~ |
 
+
+https://rabbit.prosell.kr/m/bbs/Jonbeo/1
 # 코딩테스트 소통공간(저자가 직접운영)
  - 카카오톡 오픈채팅 : https://open.kakao.com/o/gX0WnTCf
 
