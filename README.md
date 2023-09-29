@@ -8,9 +8,8 @@
 # 진행중인 이벤트
 | Event    | 세부내용                                    |기간 |
 | ---------- | ---------------------------------------------- |---------------------------------------------- |
-|무료 코딩테스트 스터디       |[참여방법 및 스터디 세부사항](https://cafe.naver.com/dremdeveloper/901)              | 상시 |
-
-|무료 코테 정리노트 증정(100프로 당첨)    |[참여하러가기](https://rabbit.prosell.kr/m/bbs/Jonbeo/1 )              | 9월27~ |
+|코딩테스트 스터디       |[참여방법 및 스터디 세부사항](https://cafe.naver.com/dremdeveloper/901)              | 상시 |
+|코테 정리노트 증정(100프로 당첨)    |[참여하러가기](https://rabbit.prosell.kr/m/bbs/Jonbeo/1 )              | 9월27~ |
 
 
 https://rabbit.prosell.kr/m/bbs/Jonbeo/1
