@@ -32,12 +32,17 @@
 #    - 노드 3에서 더 이상 방문하지 않은 인접 노드가 없으므로, 스택에서 노드 3을 꺼낸다.
 #    - 위 과정을 더 이상 수행할 수 없을 때까지 반복한다.
 
-def dfs(graph, v, visited):
-    visited[v] = True
-    print(v, end=' ')
-    for i in graph[v]:
-        if not visited[i]:
-            dfs(graph, i, visited)
+def dfs(graph, start_node):
+    visited = [False] * (len(graph) + 1)
+    stack = [start_node]
+    
+    while stack:
+        node = stack.pop()
+        if visited[node] == 0:
+            print(str(node)+" ") #방문 노드를 출력하기 위한 코드
+            visited[node] = 1
+            stack.extend(reversed(graph[node]))  # reversed를 사용하여 깊이 우선 탐색을 유지
+    return visited
 
 # 그래프를 인접 리스트로 표현
 graph = {
@@ -48,9 +53,6 @@ graph = {
     5: []
 }
 
-# 각 노드의 방문 정보를 리스트로 표현 (인덱스 0은 사용하지 않음)
-visited = [False] * (len(graph) + 1)
-
 # DFS 알고리즘 실행
-dfs(graph, 1, visited)
+result = dfs(graph, 1)
 # 출력: 1 2 4 5 3
