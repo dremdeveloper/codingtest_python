@@ -39,8 +39,8 @@ def dfs(graph, start_node):
     while stack:
         node = stack.pop()
         if visited[node] == 0:
-            print(str(node)+" ") #방문 노드를 출력하기 위한 코드
             visited[node] = 1
+            print(node)
             stack.extend(reversed(graph[node]))  # reversed를 사용하여 깊이 우선 탐색을 유지
     return visited
 
@@ -55,4 +55,5 @@ graph = {
 
 # DFS 알고리즘 실행
 result = dfs(graph, 1)
+print(result)
 # 출력: 1 2 4 5 3
