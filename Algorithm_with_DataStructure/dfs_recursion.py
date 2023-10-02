@@ -42,7 +42,6 @@ def dfs(graph, start_node):
             visited[node] = 1
             print(node)
             stack.extend(reversed(graph[node]))  # reversed를 사용하여 깊이 우선 탐색을 유지
-    return visited
 
 # 그래프를 인접 리스트로 표현
 graph = {
@@ -54,6 +53,4 @@ graph = {
 }
 
 # DFS 알고리즘 실행
-result = dfs(graph, 1)
-print(result)
-# 출력: 1 2 4 5 3
+dfs(graph, 1) # 1 2 4 5 3
