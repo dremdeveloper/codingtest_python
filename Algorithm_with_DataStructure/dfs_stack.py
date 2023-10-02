@@ -29,12 +29,12 @@ def dfs(graph, start_node):
     while stack:
         node = stack.pop()
         
-        print(node)
-        
-        for adj_node in graph[node]: # 인접한 노드 방문
-           if not visited[adj_node]:
-              stack.append(adj_node)
-              visited[adj_node] = True;
+        if not visited[node] :
+            visited[node] = True;
+            print(node)
+            for adj_node in graph[node]: # 인접한 노드 방문
+                if not visited[adj_node]:
+                    stack.append(adj_node)
               
 
 # 그래프를 인접 리스트로 표현
