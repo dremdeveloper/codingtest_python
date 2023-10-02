@@ -33,8 +33,8 @@ def dfs(graph, start_node):
     
     while stack:
         node = stack.pop()
-        if visited[node] == 0:
-            visited[node] = 1
+        if not visited[node] :
+            visited[node] = True
             print(node)
             stack.extend(reversed(graph[node]))  # reversed를 사용하여 깊이 우선 탐색을 유지
             
@@ -50,4 +50,3 @@ graph = {
 
 # DFS 알고리즘 실행
 dfs(graph, 1) # 1 2 4 5 3
-
