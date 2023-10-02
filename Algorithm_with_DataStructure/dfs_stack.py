@@ -33,7 +33,6 @@ def dfs(graph, start_node):
             visited[node] = True;
             print(node)
             for adj_node in graph[node]: # 인접한 노드 방문
-                if not visited[adj_node]:
                     stack.append(adj_node)
               
 
