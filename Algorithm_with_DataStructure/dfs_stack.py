@@ -26,17 +26,19 @@
 #      방문하지 않은 인접 노드가 없으면 스택에서 최상단 노드를 꺼낸다.
 #    - 위 과정을 스택이 비어있을 때까지 반복한다.
 
+
 def dfs(graph, start_node):
-    visited = []
+    visited = [False] * (len(graph) + 1)
     stack = [start_node]
     
     while stack:
         node = stack.pop()
-        if node not in visited:
-            visited.append(node)
+        if visited[node] == 0:
+            visited[node] = 1
+            print(node)
             stack.extend(reversed(graph[node]))  # reversed를 사용하여 깊이 우선 탐색을 유지
-    return visited
-
+            
+            
 # 그래프를 인접 리스트로 표현
 graph = {
     1: [2, 3],
@@ -47,6 +49,5 @@ graph = {
 }
 
 # DFS 알고리즘 실행
-result = dfs(graph, 1)
-print(result)
-# 출력: [1, 2, 4, 5, 3]
+dfs(graph, 1) # 1 2 4 5 3
+
