@@ -30,17 +30,16 @@
 from collections import deque
 
 def bfs(graph, start_node):
-    visited = []
+    visited = [False] * (len(graph) + 1)
     queue = deque([start_node])
     
     while queue:
         node = queue.popleft()
         if node not in visited:
             visited.append(node)
+            print(node) # 방문한 노드 출력
             queue.extend(graph[node])
     
-    return visited
-
 # 그래프를 인접 리스트로 표현
 graph = {
     1: [2, 3],
@@ -51,6 +50,5 @@ graph = {
 }
 
 # BFS 알고리즘 실행
-result = bfs(graph, 1)
-print(result)
-# 출력: [1, 2, 3, 4, 5]
+bfs(graph, 1) # 1, 2, 3, 4, 5
+
