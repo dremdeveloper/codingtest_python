@@ -32,14 +32,17 @@ from collections import deque
 def bfs(graph, start_node):
     visited = [False] * (len(graph) + 1)
     queue = deque([start_node])
+    visited[start_node] = True # 시작노드 방문 처리
+   
     
     while queue:
         node = queue.popleft()
-        if node not in visited:
-            visited.append(node)
-            print(node) # 방문한 노드 출력
-            queue.extend(graph[node])
-    
+        print(node) # 방문 노드 출력
+        for adj_node in graph[node]: # 인접한 노드 방문
+            if not visited[adj_node]:
+                queue.append(adj_node)
+                visited[adj_node] = True
+            
 # 그래프를 인접 리스트로 표현
 graph = {
     1: [2, 3],
