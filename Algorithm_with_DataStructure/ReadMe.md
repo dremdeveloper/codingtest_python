@@ -4,7 +4,7 @@
 
 | 파일명 | 개념 | 시간 복잡도 | 적용 예 |
 |--------|------|-------------|----------|
-| [LCS_DP.py](https://github.com/dremdeveloper/codingtest_python/edit/main/Algorithm_with_DataStructure//LCS_DP.py) | LCS(Longest Common Subsequence) 알고리즘은 두 문자열에서 가장 긴 공통 부분 문자열을 찾는 알고리즘입니다. 동적 계획법(DP)를 사용하여 문제를 해결합니다. | O(m*n) (m과 n은 각각 두 문자열의 길이) | DNA 서열 정렬, 텍스트 비교 및 유사도 측정 |
+| [LCS_DP.py](https://github.com/dremdeveloper/codingtest_python/edit/main/Algorithm_with_DataStructure//LCS_DP.py) | LCS(Longest Common Subsequence) 알고리즘은 두 문자열에서 가장 긴 공통 부분 문자열의 길이를 찾는 알고리즘입니다. 동적 계획법(DP)를 사용하여 문제를 해결합니다. | O(m*n) (m과 n은 각각 두 문자열의 길이) | DNA 서열 정렬, 텍스트 비교 및 유사도 측정 |
 | [LIS_DP.py](https://github.com/dremdeveloper/codingtest_python/edit/main/Algorithm_with_DataStructure//LIS_DP.py) | LIS(Longest Increasing Subsequence) 알고리즘은 주어진 배열에서 가장 긴 증가하는 부분 수열의 길이를 찾는 알고리즘이다. 동적 프로그래밍 방법을 사용하여 이전에 계산한 부분 문제의 결과를 저장하고 재사용함으로써 효율적으로 문제를 해결한다. | O(n²) | 주어진 배열에서 최장 증가 부분 수열의 길이를 찾는 문제, 시퀀스 정렬 문제에서 최적 부분 구조 찾기 등 |
 | [bellmanford.py](https://github.com/dremdeveloper/codingtest_python/edit/main/Algorithm_with_DataStructure//bellmanford.py) | 벨만-포드 알고리즘은 그래프에서 주어진 시작 노드로부터 다른 모든 노드까지의 최단 경로를 찾는 알고리즘이다. 음수 가중치를 가진 간선도 처리할 수 있으나, 음수 사이클이 있는 경우에는 알고리즘이 작동하지 않는다. | O(V*E) (V: 노드의 수, E: 간선의 수) | 그래프에서 단일 출발점 최단 경로 문제, 음수 가중치가 있는 그래프에서의 최단 경로 문제 (단, 음수 사이클이 없어야 함) |
 | [bfs.py](https://github.com/dremdeveloper/codingtest_python/edit/main/Algorithm_with_DataStructure//bfs.py) | BFS(너비 우선 탐색)는 그래프나 트리를 탐색하는 알고리즘 중 하나로, 루트 노드(혹은 다른 임의의 노드)에서 시작하여 인접한 노드들을 먼저 탐색하는 알고리즘입니다. 큐(Queue)를 사용하여 구현할 수 있으며, 아래 코드는 큐를 사용한 방법으로 BFS를 구현한 예입니다. | O(V + E) (V: 정점의 개수, E: 간선의 개수) | 최단 경로 찾기, 그래프의 연결성분 찾기 |
