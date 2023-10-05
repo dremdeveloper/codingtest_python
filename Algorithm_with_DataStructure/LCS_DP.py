@@ -24,7 +24,7 @@
 #      - 문자열1의 i번째 문자와 문자열2의 j번째 문자가 같다면, DP[i][j] = DP[i-1][j-1] + 1
 #      - 다르다면, DP[i][j] = max(DP[i-1][j], DP[i][j-1])
 
-def lcs(X, Y):
+def LCS(X, Y):
     # DP 테이블 초기화
     dp = [[0] * (len(Y) + 1) for _ in range(len(X) + 1)]
     
@@ -36,22 +36,10 @@ def lcs(X, Y):
             else:
                 dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
     
-    # LCS 추출
-    i, j = len(X), len(Y)
-    result = []
-    while i > 0 and j > 0:
-        if X[i - 1] == Y[j - 1]:
-            result.append(X[i - 1])
-            i -= 1
-            j -= 1
-        elif dp[i - 1][j] > dp[i][j - 1]:
-            i -= 1
-        else:
-            j -= 1
-
-    return ''.join(reversed(result))
+    return dp[len(X)][len(Y)]
 
 # 예시 코드 실행
 X = "ABCBDAB"
 Y = "BDCAB"
-print(lcs(X, Y))  # 출력: "BCAB"
+print(LCS(X, Y))  # 출력: 4
+
