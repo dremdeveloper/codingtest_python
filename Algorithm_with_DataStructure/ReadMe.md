@@ -30,4 +30,5 @@
 | [queue.py](https://github.com/dremdeveloper/codingtest_python/edit/main/Algorithm_with_DataStructure//queue.py) | 큐(Queue) 데이터 구조를 구현하고 사용하는 방법을 보여줍니다. |작성 예정 | 데이터 처리, 작업 스케줄링 |
 | [remove_duplicates.py](https://github.com/dremdeveloper/codingtest_python/edit/main/Algorithm_with_DataStructure//remove_duplicates.py) | 리스트에서 중복된 원소를 제거합니다. |작성 예정 | 데이터 정리 |
 | [stack.py](https://github.com/dremdeveloper/codingtest_python/edit/main/Algorithm_with_DataStructure//stack.py) | 스택(Stack) 데이터 구현하고 사용하는 방법을 보여줍니다. |작성 예정 | 데이터 처리, 작업 스케줄링 |
+| [eratosthenes_sieve.py](https://github.com/dremdeveloper/codingtest_python/edit/main/Algorithm_with_DataStructure//eratosthenes_sieve.py) | 에라토스테네스의 체를 구현하는 방법을 보여줍니다. | O(Nlog(logN)) | 특정범위의 자연수에서 소수찾기 |
 
