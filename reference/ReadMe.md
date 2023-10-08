@@ -26,3 +26,11 @@
 | [variable_type.py](https://github.com/dremdeveloper/codingtest_python/blob/main/reference/variable_type.py) |Python에서 사용되는 다양한 변수 타입을 설명합니다. 여기에는 정수, 실수, 문자열, 리스트, 튜플, 딕셔너리 등의 변수 타입이 포함되어 있습니다. |
 | [while_loop.py](https://github.com/dremdeveloper/codingtest_python/blob/main/reference/while_loop.py) |'while' 루프의 기본적인 사용법을 설명합니다. 여기에는 조건이 참인 동안 코드 블록을 반복 실행하는 'while' 루프의 사용 예가 포함되어 있습니다. |
 | [zip.py](https://github.com/dremdeveloper/codingtest_python/blob/main/reference/zip.py) |'zip' 함수의 사용법을 설명합니다. 'zip' 함수는 여러 개의 iterable 객체를 병렬로 순회할 수 있게 해줍니다. |
+| [combination_direct.py](https://github.com/dremdeveloper/codingtest_python/blob/main/reference/combination_direct.py) | combination(조합)을 라이브러리 없이 구하는 방법을 설명 합니다. |
+| [permutation_direct.py](https://github.com/dremdeveloper/codingtest_python/blob/main/reference/permutation_direct.py) | permutation(순열)을 라이브러리 없이 구하는 방법을 설명 합니다. |
+| [countsort.py](https://github.com/dremdeveloper/codingtest_python/blob/main/reference/countsort.py) | 계수정렬을 구현하는 방법을 설명 합니다. |
+| [insertionsort.py](https://github.com/dremdeveloper/codingtest_python/blob/main/reference/countsort.py) | 선택정렬을 구현하는 방법을 설명 합니다. |
+| [topologicalsort.py](https://github.com/dremdeveloper/codingtest_python/blob/main/reference/topologicalsort.py) | 위상정렬을 구현하는 방법을 설명 합니다. |
+| [mergesort_recursive.py](https://github.com/dremdeveloper/codingtest_python/blob/main/reference/mergesort_recursive.py) | 머지정렬을 재귀로 구현하는 방법을 설명 합니다. |
+
+
