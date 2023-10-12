@@ -25,8 +25,8 @@
 | ---------- | ---------------------------------------------- |
 |Cafe        |http://cafe.naver.com/dremdeveloper              |
 |Business Mail        |ultrasuperrok@gmail.com                         |
-
-
+|Codingtest Java        |https://github.com/dremdeveloper/codingtest_java             |
+|Codingtest CPP       |https://github.com/dremdeveloper/codingtest_cpp             |
 # 폴더 구조
  - 깃 허브의 폴더 구조에 대한 설명
 
