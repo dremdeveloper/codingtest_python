@@ -13,8 +13,9 @@
 
 
 # 코딩테스트 소통공간(저자가 직접운영)
- - 카카오톡 오픈채팅 : https://open.kakao.com/o/gX0WnTCf
-
+| Title    | Description                                    |
+| ---------- | ---------------------------------------------- |
+|카카오톡 오픈채팅        |[http://cafe.naver.com/dremdeveloper](https://open.kakao.com/o/gX0WnTCf)              |
 
 ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/ba74f116-ddb6-4cb4-956e-147d35e10336)
 
