@@ -5,13 +5,8 @@
 |알라딘    |https://bit.ly/47bm7ti|
 |예스|https://bit.ly/49jzgm4|
 
+![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/d7e70dc0-cd77-44b8-a68a-71475540b3b7)
 
-# 코딩 테스트 합격자 되기(파이썬 편)
-- 프로그래머스에서 엄선한 기출문제에 대한 상세한 풀이 제공
-- 들고 다닐수 있는 요약노트 제공
-- 실전문제 위주로 출제왼 기출문제 5회본 제공
-  
-![코딩 테스트 합격자 되기(파이썬 편)_ 가표지_입체](https://github.com/dremdeveloper/codingtest_python/assets/131899974/8f096ad7-3a0c-47ed-b853-b5d9bf6a4f03)
 
 # 진행중인 이벤트
 | Event    | 세부내용                                    |기간 |
