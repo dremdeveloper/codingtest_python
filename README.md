@@ -3,7 +3,7 @@
 | ---------- | ---------------------------------------------- |
 |교보문고       |https://bit.ly/3MlKPPN|
 |알라딘    |https://bit.ly/47bm7ti|
-|예스|https://bit.ly/49jzgm4|
+|예스|[https://bit.ly/49jzgm4](https://www.yes24.com/Product/Goods/123272392)|
 |정오표|[https://bit.ly/49jzgm4](https://docs.google.com/spreadsheets/d/1BPAmoaDmn-RRBjk8O468M_v3WnI46UaX0N_0vs0pZCk/edit#gid=0)|
 
 
