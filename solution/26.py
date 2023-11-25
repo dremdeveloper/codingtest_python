@@ -44,3 +44,7 @@ def solution(nodes):
     inorder(nodes,0)[:-1],   # 마지막 공백 제거
     postorder(nodes,0)[:-1],  # 마지막 공백 제거
   ]
+
+
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+# print(solution([1, 2, 3, 4, 5, 6, 7])) # 반환값 : ["1 2 4 5 3 6 7", "4 2 5 1 6 3 7", "4 5 2 6 7 3 1"]
