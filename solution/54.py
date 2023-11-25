@@ -11,3 +11,8 @@ def solution(s):
     sorted_str += chr(i + ord("a")) * counts[i]
 
   return sorted_str
+  
+  
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+print(solution('hello')) # 반환값 : 'ehllo'
+print(solution('algorithm')) # 반환값 : 'aghilmort'
