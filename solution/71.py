@@ -18,5 +18,5 @@ def solution(nums):
   return max(dp)
   
 # TEST 코드 입니다. 주석을 풀고 실행시켜보세요
-print(solution([1, 4, 2, 3, 1, 5, 7, 3])) # 반환값 : 5
-print(solution([3, 2, 1])) # 반환값 : 1
+# print(solution([1, 4, 2, 3, 1, 5, 7, 3])) # 반환값 : 5
+# print(solution([3, 2, 1])) # 반환값 : 1
