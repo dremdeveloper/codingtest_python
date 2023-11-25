@@ -15,5 +15,5 @@ def solution(s):
     
 
 # TEST 코드 입니다. 주석을 풀고 실행시켜보세요
-#print(solution('(())()')) # True
-#print(solution('((())()')) # False
+#print(solution('(())()')) # 반환값 : True
+#print(solution('((())()')) # 반환값 : False
