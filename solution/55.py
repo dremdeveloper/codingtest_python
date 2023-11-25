@@ -20,3 +20,8 @@ def solution(arr1, arr2):
     j += 1
 
   return merged
+
+  
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+# print(solution([1, 3, 5], [2, 4, 6])) # 반환값 : [1, 2, 3, 4, 5, 6]
+# print(solution([1, 2, 3], [4, 5, 6])) # 반환값 : [1, 2, 3, 4, 5, 6]
