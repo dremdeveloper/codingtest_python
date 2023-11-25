@@ -19,3 +19,7 @@ def solution(graph, start):
   result = []
   dfs(start, visited, result)  # ❼ 시작 노드에서 깊이 우선 탐색 시작
   return result  # ❽ DFS 탐색 결과 반환
+
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+# print(solution([['A', 'B'], ['B', 'C'], ['C', 'D'], ['D', 'E']], 'A')) # 반환값 : ['A', 'B', 'C', 'D', 'E']
+# print(solution([['A', 'B'], ['A', 'C'], ['B', 'D'], ['B', 'E'], ['C', 'F'], ['E', 'F']], 'A')) # 반환값 : ['A', 'B', 'D', 'E', 'F', 'C']
