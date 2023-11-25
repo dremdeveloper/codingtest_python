@@ -6,6 +6,7 @@ def polynomial_hash(str):
   for char in str:
     hash_value = (hash_value * p + ord(char)) % m
   return hash_value
+  
 def solution(string_list, query_list):
   # ➋ string_list의 각 문자열에 대해 다항 해시값을 계산
   hash_list = [polynomial_hash(str) for str in string_list]
@@ -19,3 +20,6 @@ def solution(string_list, query_list):
     else:
       result.append(False)
   return result
+
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+# print(solution(["apple", "banana", "cherry"], ["banana", "kiwi", "melon", "apple"] )) # 반환값 : [True, False, False, True]
