@@ -33,3 +33,10 @@ def solution(items, weight_limit):
   
   # ❾ 배낭의 무게 한도 내에서 담을 수 있는 물건들의 최대 가치를 반환
   return knapsack(items, weight_limit)  
+
+
+
+
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+# print(solution([[10, 19], [7, 10], [6, 10]], 15)) # 반환값 : 273.33
+# print(solution([[10, 60], [20, 100], [30, 120]], 50)) # 반환값 : 240
