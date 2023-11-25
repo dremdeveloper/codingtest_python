@@ -29,3 +29,9 @@ def solution(graph, start):
   sorted_paths = {node: paths[node] for node in sorted(paths)}
 
   return [distances, sorted_paths]
+
+
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+# print(solution({ 'A': {'B': 9, 'C': 3}, 'B': {'A': 5}, 'C': {'B': 1} },'A')) # 반환값 :[{'A': 0, 'B': 4, 'C': 3}, {'A': ['A'], 'B': ['A', 'C', 'B'], 'C': ['A', 'C']}]
+# print(solution({'A': {'B': 1},'B': {'C': 5},'C': {'D': 1},'D': { } }, 'A')) # 반환값 :[{'A': 0, 'B': 1, 'C': 6, 'D': 7}, {'A': ['A'], 'B': ['A', 'B'], 'C': ['A', 'B', 'C'], 'D': ['A', 'B', 'C', 'D']}]
+
