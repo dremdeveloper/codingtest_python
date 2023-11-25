@@ -23,3 +23,7 @@ def solution(arr, target):
     ):
       return True
   return False
+  
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+# print(solution([1, 2, 3, 4, 8], 6)) # 반환값 : True
+# print(solution([2, 3, 5, 9], 10)) # 반환값 : False
