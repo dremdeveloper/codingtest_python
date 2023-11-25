@@ -12,3 +12,8 @@ def solution(s):
     return False
   else:
     return True
+    
+
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+#print(solution('(())()')) # True
+#print(solution('((())()')) # False
