@@ -18,3 +18,7 @@ def solution(str1, str2):
 
   # ❻ LCS 길이 반환
   return dp[m][n]
+  
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+# print(solution("ABCBDAB","BDCAB")) # 반환값 : 4
+# print(solution("AGGTAB","GXTXAYB")) # 반환값 : 4
