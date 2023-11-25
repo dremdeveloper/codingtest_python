@@ -30,6 +30,7 @@ def solution(k, operations):
 
   return n  # 집합의 개수를 반환
   
-  
-print(solution(3,[['u', 0, 1], ['u', 1, 2], ['f', 2]]))
-print(solution(4,[['u', 0, 1], ['u', 2, 3], ['f', 0]]))
+   
+# TEST 코드 입니다. 주석을 풀고 실행시켜보세요
+# print(solution(3,[['u', 0, 1], ['u', 1, 2], ['f', 2]])) # 반환값 : 1
+# print(solution(4,[['u', 0, 1], ['u', 2, 3], ['f', 0]])) # 반환값 : 2
