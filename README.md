@@ -1,10 +1,12 @@
 # 코딩 테스트 합격자 되기(파이썬 편)-판매 시작
 | 서점    | 구매링크                                    |
 | ---------- | ---------------------------------------------- |
+| 무료 미리보기(~179p) | https://wikidocs.net/book/13314 |
 |교보문고       |https://bit.ly/3MlKPPN|
 |알라딘    |https://bit.ly/47bm7ti|
 |예스|https://www.yes24.com/Product/Goods/123272392|
 |정오표|https://docs.google.com/spreadsheets/d/1BPAmoaDmn-RRBjk8O468M_v3WnI46UaX0N_0vs0pZCk/edit#gid=0|
+
 
 
 ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/d7e70dc0-cd77-44b8-a68a-71475540b3b7)
