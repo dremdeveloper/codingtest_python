@@ -1,11 +1,11 @@
 # 책 제목 - 정오표
 
-이 문서는 [책 제목]의 정오표입니다. 독자 여러분의 정확한 이해를 돕기 위해 오류를 정정하고 업데이트합니다. 발견된 오류에 대한 정정 사항이나 추가 설명을 아래에 기록합니다.
+이 문서는 코딩테스트 합격자 되기-파이썬 편의 정오표입니다. 독자 여러분의 정확한 이해를 돕기 위해 오류를 정정하고 업데이트합니다. 발견된 오류에 대한 정정 사항이나 추가 설명을 아래에 기록합니다.
 
 ## 정오표 업데이트 정보
 
-- **최종 업데이트**: YYYY-MM-DD
-- **문의 및 제보**: [이메일 주소 또는 이슈 트래커 링크]
+- **최종 업데이트**: 2024-02-18
+- **문의 및 제보**: ultrasuperrok@gmail.co으로 제보해 주시거나 깃 헙에 issue로 올려주시면 감사하겠습니다.
 
 ## 정오표 내용
 
@@ -42,38 +42,21 @@
 | 640    | 프림 시간 복잡도 : (인접 리스트 활용 시 O(N^2))         |인접 리스트 를 인접 행렬 로 수정         | |
 | 478    | 9에서 2로의 이동은 9에서16의 이동으로 생각하면 됩니다.<br>         | 9에서 2로의 이동은 9에서 14의 이동으로 생각하면 됩니다. <br>        | |
 | 477    | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/69fcda4a-bb58-4b30-bdb0-101599bc0ed4) | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/66ec1161-6f91-449a-843e-1c9ea07450dd)| |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
-| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 478    | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/306563bc-8447-4207-ac9e-4ebc361199ae)| ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/09ed2a67-07fa-4cf9-9f02-32ddecd273c7)| |
+| 400    | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/c235e1f6-ba35-43e0-ac86-b2ceeb335f8f)| ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/2735d5d1-e72a-4a06-9976-cc2c86217b83)| |
+| 475    | 화살을 맞춘다/못 맞춘다 두 상태가 있으므로         | 화살을 맞힌다/못 맞힌다 두 상태가 있으므로         | |
+| 599    | 이 배치 패턴을 dp[0] 코드를 작성해봅시다.         | 이 배치 패턴을 작성해봅시다.         | |
+| 602    | 그리고 파이썬 외에 다른 언어에서는 스택 오버 플로가 발생할 것입니다.         | 그리고 파이썬 외에 다른 언어에서는 오버 플로가 발생할 것입니다.         | |
+| 602    | # F(0) = 0, F(1) = 1         | # fib(0) = 0, fib(1) = 1 (각 코드에서 두 번째 줄, 총 2군데)         | |
+| 546    | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/c81774dd-78af-4d1b-8aca-84a9570c79e9)| ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/cc78e819-05cd-427b-9123-b426231e2ff5)| |
+| 650    | 문제 URL 잘못됨         |(https://school.programmers.co.kr/learn/courses/30/lessons/12982)  | |
+| 652    | 예산이 0보다 크거나 같으면 모든 부서에 예산을 지원할 수 있는 것이므로 count를 반환하고 그렇지 않으면 -1을 반환합니다.         | 이후 최종적으로 계산된 count를 반환 합니다.         | |
+| 551    | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/eba3f1ab-4920-423b-9c5d-40f09492c52c)| ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/3586df39-3970-46fa-800d-ddeefd12d429)| |
+| 328    | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/3a9d4903-cffb-402d-bac8-defb60fbe202)| ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/1172197d-f362-4b60-bbaf-94ade99b7c5d)| |
+| 211    | 충돌의 의미는 서로 다른 서로 다른         | 충돌의 의미는 서로 다른 서로 다른         | |
+| 211    | 해시 테이블의 크기인 0과 N -1 사이의 값을 내야 합니다. | 해시 테이블의 크기가 N이므로, 인덱스에 해당되는  0과 N -1 사이의 값을 내야 합니다.         | |
+| 115    | 행렬 A의 길이와 행렬 B의 길이가         | 행렬 A의 열의 길이와 행렬 B의 행의 길이가 그림과 같이 K로         | |
 
 
 ## 추가 설명
 
-### 페이지 47 - 코드 예제 4
-![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/a2927cd5-4285-4010-be03-9bebda27ccaa)
-
-여기에 코드 예제 4에 대한 추가 설명을 기재합니다. 오류가 발생한 원인, 정정된 코드의 동작 방식 등을 자세히 설명할 수 있습니다.
-
-## 기타
-
-다른 오류 제보나 문의 사항이 있으시면, [이메일 주소 또는 이슈 트래커 링크]를 통해 알려주시기 바랍니다. 독자 여러분의 소중한 피드백을 기다립니다.
-
----
-
-책을 읽어주셔서 감사합니다. 오류 정정을 통해 더 나은 책을 만들기 위해 노력하겠습니다.
