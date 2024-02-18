@@ -36,6 +36,26 @@
 | 245    | line그림의 Muzi에 해당 되는 인덱스<br>14 12 13 14 로 되있음        | line그림의 Muzi에 해당 되는 인덱스<br>14 15 16 17 로 수정해야 함| |
 | 289    | 예시 그림은 [1, 5, 5, 4, 6, 4, 6]에 해당됨         | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/1af0a295-a56c-4390-baaf-6432680e0de7)| |
 | 395    | 좀 더 명확한 예시로 확실한 이해가 될수 있게 추가 설명 필요하다고 판단, 합격조언 부분        | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/e2d1f763-d3f5-4179-8f2e-dba2db4978b1)| |
+| 337    | disjoint_set[3] = 9면 노드 3의 부모 노드는 3임을 의미합니다.         | disjoint_set[3] = 9면 노드 3의 부모 노드는 9임을 의미합니다.         | |
+| 337    | 상호 베타적 관계를 가지는 집합         | 상호배타적 관계를 가지는 집합         | |
+| 413    | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/b05fe455-e440-4968-a904-afde6e34a492)| ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/c710287b-6179-4c3e-be75-c11f6f6aa63a)| |
+| 640    | 프림 시간 복잡도 : (인접 리스트 활용 시 O(N^2))         |인접 리스트 를 인접 행렬 로 수정         | |
+| 478    | 9에서 2로의 이동은 9에서16의 이동으로 생각하면 됩니다.<br>         | 9에서 2로의 이동은 9에서 14의 이동으로 생각하면 됩니다. <br>        | |
+| 477    | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/69fcda4a-bb58-4b30-bdb0-101599bc0ed4) | ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/66ec1161-6f91-449a-843e-1c9ea07450dd)| |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
+| 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
 | 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
 | 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
 | 102    | 문제 01번 QR코드 부분         | QR코드가 보이도록 수정해야 함         | |
