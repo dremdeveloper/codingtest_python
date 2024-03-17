@@ -1,11 +1,14 @@
 # 📚 **책 제목**: 코딩 테스트 합격자 되기
 
 🌟 이 문서는 "코딩 테스트 합격자 되기와 관련된 모든 정보를 한눈에 볼 수 있게 도와주는 안내서입니다. 독자 여러분의 궁금증을 해소하고, 커뮤니티와 더욱 가까워질 수 있는 기회를 제공합니다! 🌟
+![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/759d275f-8289-49d8-b8d7-02e363b3649a)
 
 ## 📝 정오표
 
 
-- 최신의 정정사항이나 업데이트를 확인하려면 여기를 클릭하세요! 👉 [**파이썬 편 정오표**](https://github.com/dremdeveloper/codingtest_python/blob/main/%EC%A0%95%EC%98%A4%ED%91%9C.md)
+- 최신의 정정사항이나 업데이트를 확인하려면 여기를 클릭하세요!
+  <br>👉 [**파이썬 편 정오표**](https://github.com/dremdeveloper/codingtest_python/blob/main/%EC%A0%95%EC%98%A4%ED%91%9C.md)
+  <br>👉 [**파이썬 편 오탈자 제보**](https://forms.gle/BwRhPaLLJ7pM7LbM6)
 
 
 ## 🎥 필수 시청 영상
@@ -20,7 +23,10 @@
 - 이 책을 소장하고 싶으신가요? 아래 링크에서 쉽고 빠르게 구매할 수 있습니다!
   책의 구매하기전 "미리 보기"를 통해 충분히 보신 후에 구매하셔도 좋습니다.
 - 🛍️ [파이썬 편 구매하기](https://www.yes24.com/Product/Goods/123272392)
-- 🛍️ [미리 보기](https://wikidocs.net/book/13314)
+- 🛍️ [파이썬 편미리 보기](https://wikidocs.net/book/13314)
+<br></br>
+- 🛍️ [자바 편 구매하기](https://product.kyobobook.co.kr/detail/S000212576322)
+- 🛍️ [자바 편 미리 보기](https://wikidocs.net/book/14549)
 
 ## 💬 커뮤니티 참여
 
@@ -28,10 +34,10 @@
 
 ### 📢 오픈 카톡방
 
-- 독자 여러분과 실시간으로 소통할 수 있는 공간입니다. 여기서 만나요! 👥 [**오픈 카톡방 참여하기**](https://open.kakao.com/o/gX0WnTCf)
+- 독자 여러분과 실시간으로 소통할 수 있는 공간입니다. 여기서 만나요! <br>👥 [**오픈 카톡방 참여하기**](https://open.kakao.com/o/gX0WnTCf)
 
 ### ☕ 네이버 카페
-- 많은 알고리즘 자료가 있습니다. 📖 [**네이버 카페**](https://cafe.naver.com/dremdeveloper)
+- 많은 알고리즘 자료가 있습니다. <br>📖 [**네이버 카페**](https://cafe.naver.com/dremdeveloper)
 
 ### 🎮 디스코드
-- 모각코 / 책관련 문의 / 스터디 모집등을 할 수 있습니다. 🗣️ [**디스코드 서버 참여하기**](https://discord.gg/W6h2NveQy7)
+- 모각코 / 책관련 문의 / 스터디 모집등을 할 수 있습니다. <br>🗣️ [**디스코드 서버 참여하기**](https://discord.gg/W6h2NveQy7)
