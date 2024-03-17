@@ -7,6 +7,15 @@
 
 - 최신의 정정사항이나 업데이트를 확인하려면 여기를 클릭하세요! 👉 [**파이썬 편 정오표**](https://github.com/dremdeveloper/codingtest_python/blob/main/%EC%A0%95%EC%98%A4%ED%91%9C.md)
 
+
+## 🎥 필수 시청 영상
+
+- 책을 읽기 전에 꼭 시청해야 할 영상입니다. 이 영상을 통해 내용에 대한 이해도를 높이세요!
+  <br>[책 소개 / 코딩테스트 Trend](https://youtu.be/Q13Uj_5bH9M?si=fmy3LJqO3oG8F_rq)
+  <br>[책 소개 / 코딩테스트 Trend](https://youtu.be/Q13Uj_5bH9M?si=fmy3LJqO3oG8F_rq)
+  
+
+
 ## 🛒 책 구매
 
 - 이 책을 소장하고 싶으신가요? 아래 링크에서 쉽고 빠르게 구매할 수 있습니다!
@@ -23,7 +32,7 @@
 - 독자 여러분과 실시간으로 소통할 수 있는 공간입니다. 여기서 만나요! 👥 [**오픈 카톡방 참여하기**](https://open.kakao.com/o/gX0WnTCf)
 
 ### ☕ 네이버 카페
-- 보다 자세한 정보와 토론을 원하신다면, 네이버 카페에 참여하세요. 📖 [**네이버 카페**](https://cafe.naver.com/dremdeveloper)
+- 많은 알고리즘 자료가 있습니다. 📖 [**네이버 카페**](https://cafe.naver.com/dremdeveloper)
 
 ### 🎮 디스코드
-- 실시간 대화와 정보 공유를 위한 디스코드 커뮤니티에도 참여해보세요. 여러분의 목소리를 듣고 싶습니다! 🗣️ [**디스코드 서버 참여하기**](https://discord.gg/W6h2NveQy7)
+- 모각코 / 책관련 문의 / 스터디 모집등을 할 수 있습니다. 🗣️ [**디스코드 서버 참여하기**](https://discord.gg/W6h2NveQy7)
