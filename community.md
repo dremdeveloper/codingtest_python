@@ -12,7 +12,6 @@
 
 - 책을 읽기 전에 꼭 시청해야 할 영상입니다. 이 영상을 통해 내용에 대한 이해도를 높이세요!
   <br>[책 소개 / 코딩테스트 Trend](https://youtu.be/Q13Uj_5bH9M?si=fmy3LJqO3oG8F_rq)
-  <br>[책 소개 / 코딩테스트 Trend](https://youtu.be/Q13Uj_5bH9M?si=fmy3LJqO3oG8F_rq)
   
 
 
