@@ -10,10 +10,10 @@
 | 04 코딩 테스트 필수 문법 | [Link](https://cafe.naver.com/dremdeveloper/995) |
 | 05 배열 | [Link](https://cafe.naver.com/dremdeveloper/1007) |
 | 06 스택 | [Link](https://cafe.naver.com/dremdeveloper/1011) |
-| 07 큐 | [Link]([#](https://cafe.naver.com/dremdeveloper/1015)) |
-| 08 해시 | [Link]([#](https://cafe.naver.com/dremdeveloper/1040)) |
+| 07 큐 | [Link](https://cafe.naver.com/dremdeveloper/1015) |
+| 08 해시 | [Link](https://cafe.naver.com/dremdeveloper/1040) |
 | 09 트리 | [Link](https://cafe.naver.com/dremdeveloper/1042) |
-| 10 집합 | [Link]([#](https://cafe.naver.com/dremdeveloper/1044)) |
+| 10 집합 | [Link](https://cafe.naver.com/dremdeveloper/1044) |
 | 11 그래프(탐색) | [Link](https://cafe.naver.com/dremdeveloper/1045) |
 | 11장 그래프(최소 경로) | [Link](https://cafe.naver.com/dremdeveloper/1046) |
 | 12장 백트래킹 | [Link](https://cafe.naver.com/dremdeveloper/1048) |
