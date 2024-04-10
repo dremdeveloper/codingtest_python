@@ -1,6 +1,8 @@
 # 코딩테스트 합격자되기 - 파이썬편
 
 **저자**: 박경록
+![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/422c5885-20ad-4938-9fdb-ec127989b6f1)
+
 
 ## Chapter Links
 
