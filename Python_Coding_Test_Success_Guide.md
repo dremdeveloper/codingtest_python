@@ -33,10 +33,15 @@
 
 
 ## 공부자료
-- **저자 깃허브**: [Link](https://github.com/dremdeveloper)
-- **책 무료보기**: [Link](https://wikidocs.net/book/13314)
-- **공부자료 정리**: [Link](https://github.com/dremdeveloper/codingtest_python/blob/main/community.md)
-- **저자 소통방 링크**: [Link](https://open.kakao.com/o/gX0WnTCf)
-- **저자 링크드인**: [Link](https://www.linkedin.com/in/ultrasuperrok/)
+| 제목 | 링크 |
+|---------|------|
+| 저자 깃허브 | [Link](https://github.com/dremdeveloper) |
+| 책 무료보기 | [Link](https://wikidocs.net/book/13314) |
+| 공부자료 정리 | [Link](https://github.com/dremdeveloper/codingtest_python/blob/main/community.md) |
+| 저자 카톡방 |[Link](https://open.kakao.com/o/gX0WnTCf) |
+
+
+
+
 
 
