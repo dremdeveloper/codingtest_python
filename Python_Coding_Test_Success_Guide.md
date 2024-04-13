@@ -1,4 +1,4 @@
-# 코딩테스트 합격자되기
+# 코딩테스트 합격자 되기 - 챕터별 요약 및 기타공부자료
 
 **저자**: 박경록
 ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/422c5885-20ad-4938-9fdb-ec127989b6f1)
