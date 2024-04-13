@@ -4,9 +4,9 @@
 ![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/422c5885-20ad-4938-9fdb-ec127989b6f1)
 
 
-## Chapter Links
+## 챕터
 
-| Chapter | Link |
+| 챕터 | 링크 |
 |---------|------|
 | 03 알고리즘의 효율 분석 | [Link](https://cafe.naver.com/dremdeveloper/994) |
 | 04 코딩 테스트 필수 문법 | [Link](https://cafe.naver.com/dremdeveloper/995) |
@@ -24,7 +24,15 @@
 | 15장 동적 계획법 | [Link](https://cafe.naver.com/dremdeveloper/1051) |
 | 16장 그리디 | [Link](https://cafe.naver.com/dremdeveloper/1052) |
 
-## Additional Resources
+## GPT를 활용한 알고리즘 공부
+
+| 챕터 | 링크 |
+|---------|------|
+| 재귀함수 | [Link](https://cafe.naver.com/dremdeveloper/1053) |
+| 최단경로 알고리즘 | [Link](https://cafe.naver.com/dremdeveloper/1054) |
+
+
+## 공부자료
 - **저자 깃허브**: [Link](https://github.com/dremdeveloper)
 - **책 무료보기**: [Link](https://wikidocs.net/book/13314)
 - **공부자료 정리**: [Link](https://github.com/dremdeveloper/codingtest_python/blob/main/community.md)
