@@ -44,6 +44,6 @@
 
 ### 🚘 깃허브
 - 🛍️ [파이썬 편](https://github.com/dremdeveloper/codingtest_python)
-- 🛍️ [파이썬 편](https://github.com/dremdeveloper/codingtest_cpp)
+- 🛍️ [C++ 편](https://github.com/dremdeveloper/codingtest_cpp)
    
 
