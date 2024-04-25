@@ -43,7 +43,7 @@
 - 매일 모각코는 오전 10시, 오후 11시에 진행 됩니다. <br>🗣️ [**모각코  참여하기**](https://discord.com/channels/1190334577248583791/1199028141285462126)
 
 ### 🚘 깃허브
-   <br>🛍️ [파이썬 편](https://github.com/dremdeveloper/codingtest_python)
-   <br>🛍️ [파이썬 편](https://github.com/dremdeveloper/codingtest_cpp)
+- 🛍️ [파이썬 편](https://github.com/dremdeveloper/codingtest_python)
+- 🛍️ [파이썬 편](https://github.com/dremdeveloper/codingtest_cpp)
    
 
