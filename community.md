@@ -1,7 +1,7 @@
 # 📚 **책 제목**: 코딩 테스트 합격자 되기
 
-🌟 이 문서는 "코딩 테스트 합격자 되기와 관련된 모든 정보를 한눈에 볼 수 있게 도와주는 안내서입니다. 독자 여러분의 궁금증을 해소하고, 커뮤니티와 더욱 가까워질 수 있는 기회를 제공합니다! 🌟
-![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/759d275f-8289-49d8-b8d7-02e363b3649a)
+![image](https://github.com/dremdeveloper/codingtest_python/assets/131899974/b31384f5-594a-4f39-9d35-ac8f49317c35)
+
 
 ## 📝 정오표 및 오탈자 제보
 
