@@ -21,6 +21,8 @@
 
 - 이 책을 소장하고 싶으신가요? 아래 링크에서 쉽고 빠르게 구매할 수 있습니다!
   책의 구매하기전 "미리 보기"를 통해 충분히 보신 후에 구매하셔도 좋습니다.
+  <br>🛍️ [C++ 편 구매하기](https://www.yes24.com/Product/Goods/123272392)
+
   <br>🛍️ [파이썬 편 구매하기](https://www.yes24.com/Product/Goods/123272392)
   <br>🛍️ [파이썬 편 미리 보기](https://wikidocs.net/book/13314)
 <br></br>
