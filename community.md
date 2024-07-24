@@ -20,26 +20,21 @@
 
 
 ## 🛒 책 구매
-- 이 책을 소장하고 싶으신가요? 아래 링크에서 쉽고 빠르게 구매할 수 있습니다!
-  책의 구매하기전 "미리 보기"를 통해 충분히 보신 후에 구매하셔도 좋습니다.
-  <br>🛍️ [C++ 편 구매하기](https://www.yes24.com/Product/Goods/123272392)
-<br></br>
-  <br>🛍️ [파이썬 편 구매하기](https://www.yes24.com/Product/Goods/123272392)
-  <br>🛍️ [파이썬 편 미리 보기](https://wikidocs.net/book/13314)
-<br></br>
-  <br>🛍️ [자바 편 구매하기](https://product.kyobobook.co.kr/detail/S000212576322)
-  <br>🛍️ [자바 편 미리 보기](https://wikidocs.net/book/14549)
+
+| 책 제목 |  링크 |
+| --- |  --- |
+| C++ 편  | [구매](https://www.yes24.com/Product/Goods/123272392) |
+| 파이썬 편 | [구매](https://www.yes24.com/Product/Goods/123272392)     [미리보기](https://wikidocs.net/book/13314) |
+| 자바 편  | [구매](https://product.kyobobook.co.kr/detail/S000212576322)     [미리보기](https://wikidocs.net/book/14549) |
+
 
 ## 💬 커뮤니티 참여
-독자 여러분과 소통할 수 있는 다양한 커뮤니티를 운영하고 있습니다. 여러분의 소중한 의견, 피드백 그리고 질문을 기다립니다. 🌈
+| 항목 | 설명 | 링크 |
+| --- | --- | --- |
+| 오픈 카톡방 | - 독자 여러분과 실시간으로 소통할 수 있는 공간입니다. <br> - 개발 관련 얘기 및 상담을 자유롭게 진행할 수 있습니다. | [링크](https://open.kakao.com/o/gX0WnTCf) |
+| 네이버 카페 | 많은 알고리즘 자료가 있습니다. | [링크](https://cafe.naver.com/dremdeveloper) |
 
-### 📢 오픈 카톡방
-- 독자 여러분과 실시간으로 소통할 수 있는 공간입니다.
-- 개발 관련 얘기 및 상담을 자유롭게 진행할 수 있습니다.
-  <br>👥 [**오픈 카톡방 참여하기**](https://open.kakao.com/o/gX0WnTCf)
 
-### ☕ 네이버 카페
-- 많은 알고리즘 자료가 있습니다. <br>📖 [**네이버 카페**](https://cafe.naver.com/dremdeveloper)
 
 ## 🎮진행 중인 스터디
 - 모각코는 항상 진행 합니다.
@@ -53,8 +48,11 @@
 | 코딩 테스트 합격자 되기 - 자바 | [참석](https://discord.com/channels/1190334577248583791/1265644208203763713) |~07/31까지 모집 |
 | 코딩 테스트 합격자 되기 - C++ | [참석](https://discord.com/channels/1190334577248583791/1265647941511680070) |~07/31까지 모집 |
 
-### 🚘 깃허브
-- 🛍️ [파이썬 편](https://github.com/dremdeveloper/codingtest_python)
-- 🛍️ [C++ 편](https://github.com/dremdeveloper/codingtest_cpp)
+## 🚘 깃허브
+| 책 제목 | 링크 |
+| --- | --- |
+| 파이썬 편 | [링크](https://github.com/dremdeveloper/codingtest_python) |
+| C++ 편 | [링크](https://github.com/dremdeveloper/codingtest_cpp) |
+
    
 
