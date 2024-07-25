@@ -7,7 +7,7 @@
 
 - 최신의 정정사항이나 업데이트를 확인하려면 여기를 클릭하세요!
   <br>👉 [**파이썬 편 정오표**](https://github.com/dremdeveloper/codingtest_python/blob/main/%EC%A0%95%EC%98%A4%ED%91%9C.md)
-  <br>👉 [**파이썬 편 오탈자 제보**](https://forms.gle/BwRhPaLLJ7pM7LbM6)
+  <br>👉 [**오탈자 제보(C++/파이썬)**](https://forms.gle/xqnz13aaHgdBbhtDA)
 
 
 ## 🎥책 소개 및 영상 강의
