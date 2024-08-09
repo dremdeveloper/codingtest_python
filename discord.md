@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/7b7a7871-b1ae-4cfc-a0b7-29ead1aadbfe)
+
+
+
 # Discord 음성채널 설명서
 
 ## 목차
