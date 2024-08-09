@@ -70,10 +70,12 @@
 | **목적** | 함께 모여서 각자 집중하는 시간을 가지는 것이 목적이므로, 부담 없이 참여할 수 있습니다. |
 
 **채널 입장 화면**
-![image](https://github.com/user-attachments/assets/ddc430ad-241b-477a-8269-f93eb7f4736e)
+![image](https://github.com/user-attachments/assets/3c96aa0a-c02e-43f3-abcf-ddf42ca8a11d)
+
 
 **영상 공유 화면(필수 아님)**
-![image](https://github.com/user-attachments/assets/60db4dcd-9865-468e-b04f-c4152bb6c1ae)
+![image](https://github.com/user-attachments/assets/3c3c2d0d-ad5f-4668-8f2c-b1a1d291d7da)
+
 
 
 ## 6. 문제 해결
