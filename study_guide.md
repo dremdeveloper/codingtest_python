@@ -4,7 +4,7 @@
 
 
 ## 스터디 생성하기(구글 문서를 타고 오신분은 아래 신청된 스터디 현황 보시면 됩니다)
-[생성하기]https://forms.gle/9EV4dKh24FW45rkX7 )
+[생성하기](https://forms.gle/9EV4dKh24FW45rkX7)
 
 ## 현재 신청된 스터디 현황
 [현황 확인하기](https://docs.google.com/spreadsheets/d/1E6NVQZT8yjBlFzak_4Sw2xhbhKmEEwHT0b4R7XBZB-8/edit?usp=sharing)
