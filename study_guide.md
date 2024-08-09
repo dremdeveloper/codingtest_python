@@ -1,6 +1,9 @@
-# 스터디 생성 안내
+# 스터디 생성/참여 안내
 
 스터디를 시작하고 싶지만 사람을 어떻게 모아야 할지 걱정되시나요? 걱정 마세요! 스터디를 생성해보세요. 아래 플랫폼에 스터디를 생성하면 많은 사람들에게 노출됩니다.
+
+## 현재 신청된 스터디 현황
+[현황 확인하기](https://docs.google.com/spreadsheets/d/1E6NVQZT8yjBlFzak_4Sw2xhbhKmEEwHT0b4R7XBZB-8/edit?usp=sharing)
 
 ## 스터디 홍보 채널
 - [카카오 오픈채팅방 (820명 개발자 참여)](https://open.kakao.com/o/gX0WnTCf)
