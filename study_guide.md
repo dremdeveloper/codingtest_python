@@ -4,7 +4,7 @@
 
 
 ## 스터디 그룹 가입하기
-[생성하기](https://www.linkedin.com/groups/14606078/)
+[스터디그룹링크](https://www.linkedin.com/groups/14606078/)
 
 ## 스터디 홍보 채널
 - [카카오 오픈채팅방 (820명 개발자 참여)](https://open.kakao.com/o/gX0WnTCf)
