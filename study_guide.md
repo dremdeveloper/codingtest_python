@@ -6,9 +6,6 @@
 ## 스터디 그룹 가입하기
 [생성하기](https://www.linkedin.com/groups/14606078/)
 
-## 현재 신청된 스터디 현황
-[현황 확인하기](https://docs.google.com/spreadsheets/d/1E6NVQZT8yjBlFzak_4Sw2xhbhKmEEwHT0b4R7XBZB-8/edit?usp=sharing)
-
 ## 스터디 홍보 채널
 - [카카오 오픈채팅방 (820명 개발자 참여)](https://open.kakao.com/o/gX0WnTCf)
 - [디스코드 (620명)](https://discord.gg/jUCqgExumm)
