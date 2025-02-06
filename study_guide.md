@@ -3,8 +3,8 @@
 스터디를 시작하고 싶지만 사람을 어떻게 모아야 할지 걱정되시나요? 걱정 마세요! 스터디를 생성해보세요. 아래 플랫폼에 스터디를 생성하면 많은 사람들에게 노출됩니다.
 
 
-## 스터디 생성하기(구글 문서를 타고 오신분은 아래 신청된 스터디 현황 보시면 됩니다)
-[생성하기](https://forms.gle/9EV4dKh24FW45rkX7)
+## 스터디 그룹 가입하기
+[생성하기](https://www.linkedin.com/groups/14606078/)
 
 ## 현재 신청된 스터디 현황
 [현황 확인하기](https://docs.google.com/spreadsheets/d/1E6NVQZT8yjBlFzak_4Sw2xhbhKmEEwHT0b4R7XBZB-8/edit?usp=sharing)
