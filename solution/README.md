@@ -1,4 +1,11 @@
 
+## 커뮤니티
+| 제목 | 링크 |
+|------|------|
+|링크드인|[링크](https://www.linkedin.com/in/ultrasuperrok/)|
+|오픈톡방|[링크](https://open.kakao.com/o/gX0WnTCf)|
+|스터디 그룹|[링크](https://www.linkedin.com/groups/14606078/)|
+
 
 ## 05장 배열
 | 파일명 | 문제 |난이도| 비고 |
